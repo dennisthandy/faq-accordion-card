@@ -1,0 +1,11 @@
+@import './variables';
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+*,
+*::after,
+*::before {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	font-family: $font-face;
+}
